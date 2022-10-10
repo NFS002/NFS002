@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NFS002, nice to meet you.
+👋 Hi, I’m @NFS002, nice to meet you.
 
 <!---
 NFS002/NFS002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
